@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">copter_life</string>
+    <string name="app_name">Cop_life</string>
+    <string name="hello">Здраствуй,</string>
+    <string name="score">У тебя на счету</string>
+    <string name="card">Приложи карту</string>
+    <string name="priz">Приложи карту</string>
+    <string name="sorting">Помог убраться в кабиете</string>
+    <string name="work_high">Превзошел все ожидания</string>
+    <string name="work_medium">Сделал все задачи и убрался за собой</string>
+    <string name="work_easy">Просто пришел</string>
+    <string name="button">Ввести</string>
+    <string name="EditText">Введите сумму</string>
+
+
+
+
 </resources>
